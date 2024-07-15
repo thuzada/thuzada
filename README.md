@@ -1,4 +1,4 @@
-# Olá, eu sou Arthur Augusto 👋
+# Olá, eu sou Arthur
 
 Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará alguns dos meus projetos, contribuições e interesses.
 
