@@ -9,10 +9,12 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia e
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ## 📈 GitHub Estatísticas
 
-![Thuzada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=radical)
+![Thuzada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
