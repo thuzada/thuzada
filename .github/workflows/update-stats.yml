@@ -1,0 +1,33 @@
+name: Atualizar Estatísticas GitHub
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Atualiza a cada 1 hora
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Instalar dependências
+        run: npm install node-fetch@2
+
+      - name: Buscar estatísticas reais
+        run: node fetch-stats.js
+
+      - name: Commit e push das estatísticas
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add stats.json
+          git commit -m "Atualizando estatísticas automáticas" || echo "Nenhuma alteração"
+          git push
