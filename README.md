@@ -11,11 +11,12 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia e
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ## 📈 GitHub Estatísticas
 
-![THUZADA Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=radical)  
-
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=radical)
 
 ---
 
