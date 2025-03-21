@@ -4,7 +4,6 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia e
 
 ## 📊 Minhas Estatísticas  
 
-🔹 **Repositórios Públicos:** ![GitHub Repositories](https://img.shields.io/github/repo-count/thuzada?color=blue&logo=github)  
 🌟 **Stars Recebidas:** ![GitHub Stars](https://img.shields.io/github/stars/thuzada?color=yellow&logo=github)  
 🍴 **Forks:** ![GitHub Forks](https://img.shields.io/github/followers/thuzada?color=green&logo=github)  
 👥 **Seguidores:** ![GitHub Followers](https://img.shields.io/github/followers/thuzada?style=social)  
