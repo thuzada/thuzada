@@ -1,20 +1,14 @@
-# 👋 Olá, eu sou Arthur  
-Bem-vindo ao meu perfil no GitHub! Apaixonado por tecnologia e desenvolvimento, sempre buscando criar soluções inovadoras. 🚀
+# Olá, eu sou Arthur 👋  
 
-## 🚀 Sobre mim  
-- 💻 Desenvolvedor focado em **JavaScript** e **tecnologias web**  
-- 📚 Sempre aprendendo e explorando novas stacks  
-- 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/thuzada)  
+Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará alguns dos meus projetos, contribuições e interesses.  
 
 ## 📊 Minhas Estatísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=radical)  
+
+🌟 **Stars Recebidas:** ![GitHub Stars](https://img.shields.io/github/stars/thuzada?color=yellow&logo=github)  
+👥 **Seguidores:** ![GitHub Followers](https://img.shields.io/github/followers/thuzada?style=social)  
+
+📌 **Principais Linguagens Utilizadas:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=radical)  
 
-## 🚀 Projetos em Destaque  
-🔹 [Projeto 1](https://github.com/thuzada/projeto1) - Descrição breve do projeto  
-🔹 [Projeto 2](https://github.com/thuzada/projeto2) - Descrição breve do projeto  
-
-## 📬 Contato  
-📧 Email: [seuemail@example.com](mailto:seuemail@example.com)  
-🌐 Portfólio: [seusite.com](https://seusite.com)  
-
+📈 **Status do GitHub:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=radical)  
