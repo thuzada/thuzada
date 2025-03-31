@@ -11,22 +11,19 @@ async function getGitHubStats() {
 
         const repos = await response.json();
 
-        let totalStars = 0;
-        let totalForks = 0;
+        let totalStars = repos.reduce((acc, repo) => acc + (repo.stargazers_count || 0), 0);
+        let totalForks = repos.reduce((acc, repo) => acc + (repo.forks_count || 0), 0);
         let languages = {};
 
-        for (const repo of repos) {
-            totalStars += repo.stargazers_count || 0;
-            totalForks += repo.forks_count || 0;
-
+        await Promise.all(repos.map(async (repo) => {
             const langResponse = await fetch(repo.languages_url);
-            if (!langResponse.ok) continue;
-
-            const repoLangs = await langResponse.json();
-            for (const lang in repoLangs) {
-                languages[lang] = (languages[lang] || 0) + repoLangs[lang];
+            if (langResponse.ok) {
+                const repoLangs = await langResponse.json();
+                for (const lang in repoLangs) {
+                    languages[lang] = (languages[lang] || 0) + repoLangs[lang];
+                }
             }
-        }
+        }));
 
         const stats = {
             username,
