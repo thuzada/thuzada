@@ -1,13 +1,13 @@
-const fetch = require("node-fetch");
+import fetch from 'node-fetch';
 const fs = require("fs");
 
 const username = "thuzada";
-const apiUrl = https://api.github.com/users/${username}/repos;
+const apiUrl = `https://api.github.com/users/${username}/repos`;
 
 async function getGitHubStats() {
     try {
         const response = await fetch(apiUrl);
-        if (!response.ok) throw new Error(Erro na API: ${response.statusText});
+        if (!response.ok) throw new Error(`Erro na API: ${response.statusText}`);
 
         const repos = await response.json();
 
