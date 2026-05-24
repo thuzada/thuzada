@@ -2,23 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Arthur+%F0%9F%91%8B;Full+Stack+Developer;AI+Engineer" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/thuzada?tab=followers">
-    <img src="https://img.shields.io/github/followers/thuzada?style=flat-square&color=A855F7&labelColor=1a1a2e&label=Seguidores" />
-  </a>
-  <img src="https://img.shields.io/github/stars/thuzada?style=flat-square&color=f1c40f&labelColor=1a1a2e&label=Stars" />
-  <img src="https://komarev.com/ghpvc/?username=thuzada&style=flat-square&color=A855F7&label=Visitas+ao+perfil" />
-</p>
-
 ---
 
 ## 👨‍💻 Sobre Mim
 
 - 🚀 **Full Stack** — Vue.js · Node.js · Java · TypeScript · JavaScript
 - 🤖 **IA** — RAG · LangChain · OpenAI · Qdrant · LangGraph
-- 🏗️ Foco em **aplicações web escaláveis** e **APIs REST**
-- 📐 Evoluindo em **arquitetura de software**
-- 🌱 Sempre construindo projetos práticos
 
 ---
 
@@ -52,14 +41,16 @@
 
 <div align="center">
 
+| ⭐ Stars | 🍴 Forks | 💻 Linguagem #1 |
+|:---:|:---:|:---:|
+| <!-- STARS -->1<!-- /STARS --> | <!-- FORKS -->0<!-- /FORKS --> | <!-- TOP_LANG -->C<!-- /TOP_LANG --> |
+
+<sub>🔄 Última atualização: <!-- UPDATED_AT -->2026-05-24<!-- /UPDATED_AT --></sub>
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuzada&theme=tokyonight&hide_border=true)
 
 </div>
 
