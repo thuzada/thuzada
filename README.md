@@ -1,6 +1,7 @@
-# Olá, eu sou Arthur 👋  
+# Olá, eu sou Arthur 
 
 Desenvolvedor Full Stack (Vue, Node.js, Java, TypeScript e javaScript).
+Desenvolvedor IA (Rag, LangChain, OpenIA, Qdrant, LangGraph)
 Foco em aplicações web escaláveis e APIs REST.
 Construindo projetos práticos e evoluindo em arquitetura de software. 
 
