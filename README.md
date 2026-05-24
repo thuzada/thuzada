@@ -42,7 +42,3 @@
 
 </div>
 
-<div align="center">
-<sub>⭐ <b><!-- STARS -->1<!-- /STARS --></b> stars &nbsp;·&nbsp; 🍴 <b><!-- FORKS -->0<!-- /FORKS --></b> forks &nbsp;·&nbsp; 💻 <!-- TOP_LANGS -->C · Java · HTML<!-- /TOP_LANGS --> &nbsp;·&nbsp; 🔄 <!-- UPDATED_AT -->2026-05-24<!-- /UPDATED_AT --></sub>
-</div>
-
