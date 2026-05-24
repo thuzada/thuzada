@@ -3,15 +3,7 @@
 </h1>
 
 ---
-
-## 👨‍💻 Sobre Mim
-
-- 🚀 **Full Stack** — Vue.js · Node.js · Java · TypeScript · JavaScript
-- 🤖 **IA** — RAG · LangChain · OpenAI · Qdrant · LangGraph
-
----
-
-## 🛠️ Stack Tecnológica
+## 🛠️ Stacks
 
 ### 🖥️ Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
