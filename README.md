@@ -41,16 +41,16 @@
 
 <div align="center">
 
-| ⭐ Stars | 🍴 Forks | 💻 Linguagem #1 |
-|:---:|:---:|:---:|
-| <!-- STARS -->1<!-- /STARS --> | <!-- FORKS -->0<!-- /FORKS --> | <!-- TOP_LANG -->C<!-- /TOP_LANG --> |
-
-<sub>🔄 Última atualização: <!-- UPDATED_AT -->2026-05-24<!-- /UPDATED_AT --></sub>
+<img src="https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thuzada&theme=tokyo-night&hide_border=true&area=true)](https://github.com/thuzada)
 
+</div>
+
+<div align="center">
+<sub>⭐ <b><!-- STARS -->1<!-- /STARS --></b> stars &nbsp;·&nbsp; 🍴 <b><!-- FORKS -->0<!-- /FORKS --></b> forks &nbsp;·&nbsp; 💻 <!-- TOP_LANGS -->C · Java · HTML<!-- /TOP_LANGS --> &nbsp;·&nbsp; 🔄 <!-- UPDATED_AT -->2026-05-24<!-- /UPDATED_AT --></sub>
 </div>
 
