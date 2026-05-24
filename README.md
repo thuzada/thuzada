@@ -41,8 +41,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=thuzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 <br/>
 
