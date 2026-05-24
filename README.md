@@ -1,17 +1,65 @@
-# Olá, eu sou Arthur 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Arthur+%F0%9F%91%8B;Full+Stack+Developer;AI+Engineer" alt="Typing SVG" />
+</h1>
 
-Desenvolvedor Full Stack (Vue, Node.js, Java, TypeScript e javaScript).
-Desenvolvedor IA (Rag, LangChain, OpenIA, Qdrant, LangGraph)
-Foco em aplicações web escaláveis e APIs REST.
-Construindo projetos práticos e evoluindo em arquitetura de software. 
+<p align="center">
+  <a href="https://github.com/thuzada?tab=followers">
+    <img src="https://img.shields.io/github/followers/thuzada?style=flat-square&color=A855F7&labelColor=1a1a2e&label=Seguidores" />
+  </a>
+  <img src="https://img.shields.io/github/stars/thuzada?style=flat-square&color=f1c40f&labelColor=1a1a2e&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=thuzada&style=flat-square&color=A855F7&label=Visitas+ao+perfil" />
+</p>
 
-## 📊 Minhas Estatísticas  
+---
 
-🌟 **Stars Recebidas:** ![GitHub Stars](https://img.shields.io/github/stars/thuzada?color=yellow&logo=github)  
-👥 **Seguidores:** ![GitHub Followers](https://img.shields.io/github/followers/thuzada?style=social)  
+## 👨‍💻 Sobre Mim
 
-📌 **Principais Linguagens Utilizadas:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=radical)  
+- 🚀 **Full Stack** — Vue.js · Node.js · Java · TypeScript · JavaScript
+- 🤖 **IA** — RAG · LangChain · OpenAI · Qdrant · LangGraph
+- 🏗️ Foco em **aplicações web escaláveis** e **APIs REST**
+- 📐 Evoluindo em **arquitetura de software**
+- 🌱 Sempre construindo projetos práticos
 
-📈 **Status do GitHub:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=radical)  
+---
+
+## 🛠️ Stack Tecnológica
+
+### 🖥️ Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 Inteligência Artificial
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4081?style=for-the-badge&logo=qdrant&logoColor=white)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thuzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuzada&theme=tokyonight&hide_border=true)
+
+</div>
+
