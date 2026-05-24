@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "update": "node fetch-stats.cjs && node update-readme.cjs"
+  },
   "dependencies": {
     "node-fetch": "^3.3.2"
   }

@@ -3,9 +3,16 @@ const fs = require("fs");
 const username = "thuzada";
 const apiUrl = `https://api.github.com/users/${username}/repos`;
 
+const headers = {
+    "Accept": "application/vnd.github+json",
+    ...(process.env.GITHUB_TOKEN && {
+        "Authorization": `Bearer ${process.env.GITHUB_TOKEN}`
+    })
+};
+
 async function getGitHubStats() {
     try {
-        const response = await fetch(apiUrl);
+        const response = await fetch(apiUrl, { headers });
         if (!response.ok) throw new Error(`Erro na API: ${response.statusText}`);
 
         const repos = await response.json();
@@ -18,7 +25,7 @@ async function getGitHubStats() {
             totalStars += repo.stargazers_count || 0;
             totalForks += repo.forks_count || 0;
 
-            const langResponse = await fetch(repo.languages_url);
+            const langResponse = await fetch(repo.languages_url, { headers });
             if (!langResponse.ok) continue;
 
             const repoLangs = await langResponse.json();

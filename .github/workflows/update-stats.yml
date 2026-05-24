@@ -1,36 +1,38 @@
-name: Atualizar Estatísticas GitHub
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 * * * *" # Atualiza a cada 1 hora
+    - cron: "0 6 * * *" # Todo dia às 6h UTC
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Clonar repositório
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Configurar Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: "20"
 
-      - name: Buscar estatísticas reais
-        run: node fetch-stats.js
+      - name: Install dependencies
+        run: npm install
 
-      - name: Commit e push das estatísticas
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          
-          if git diff --quiet stats.json; then
-            echo "Nenhuma alteração detectada. Pulando commit."
-            exit 0
-          fi
-          
-          git add stats.json
-          git commit -m "Atualizando estatísticas automáticas"
-          git push
+      - name: Fetch GitHub stats
+        run: node fetch-stats.cjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README
+        run: node update-readme.cjs
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 chore: update stats"
+          file_pattern: "README.md stats.json"
