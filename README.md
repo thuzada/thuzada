@@ -14,20 +14,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
-> Desenvolvedor **Full Stack** apaixonado por transformar ideias em produtos que funcionam de verdade, e cada vez mais focado em **Inteligência Artificial aplicada**.
-
-```text
-🔭  Trabalhando em   →  aplicações web e soluções com IA
-🌱  Estudando        →  RAG, LangChain, LangGraph e bancos vetoriais
-💬  Pergunte-me sobre →  Vue.js, Node.js, Java e TypeScript
-⚡  Curiosidade      →  adoro automatizar o que é repetitivo
-```
-
----
-
-## 🛠️ Stack tecnológica
+## 🛠️ Stacks
 
 <div align="center">
 
@@ -113,8 +100,6 @@ Python      █░░░░░░░░░░░░░░░░░░░░░�
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=thuzada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus do GitHub" />
-
-<sub>🔄 Atualizado em <b><!-- UPDATED_AT -->2026-11-07<!-- /UPDATED_AT --></b></sub>
 
 </div>
 
