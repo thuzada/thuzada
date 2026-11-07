@@ -45,37 +45,6 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/thuzada/Dayup">Dayup</a></h3>
-      <sub>TypeScript</sub><br/>
-      Aplicação em TypeScript para organizar o dia a dia.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌦️ <a href="https://github.com/thuzada/ClimaApi">ClimaApi</a></h3>
-      <sub>Java</sub><br/>
-      Consumo de API de clima com backend em Java.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗄️ <a href="https://github.com/thuzada/SQLiteBank">SQLiteBank</a></h3>
-      <sub>C</sub><br/>
-      Sistema bancário em C com persistência em SQLite.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/thuzada/Site-Pessoal-integrado-com-API-do-GitHub-e-JSONServer">Site Pessoal + API do GitHub</a></h3>
-      <sub>HTML · JavaScript</sub><br/>
-      Site pessoal integrado à API do GitHub e ao JSON Server.
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
@@ -95,7 +64,6 @@ Python      █░░░░░░░░░░░░░░░░░░░░░�
 <!-- /LANG_BARS -->
 
 <img src="https://github-readme-stats-alpha.vercel.app/api?username=thuzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" width="48%" />
-<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=thuzada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" width="48%" />
 
 <br/>
 
@@ -105,12 +73,7 @@ Python      █░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🤝 Vamos conversar
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-thuzada-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thuzada)
-[![E-mail](https://img.shields.io/badge/E--mail-ar7huraugusto@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar7huraugusto@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="Rodapé" width="100%"/>
 
