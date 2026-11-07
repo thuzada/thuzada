@@ -65,9 +65,6 @@ Python      █░░░░░░░░░░░░░░░░░░░░░�
 
 <img src="https://github-readme-stats-alpha.vercel.app/api?username=thuzada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" width="48%" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=thuzada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus do GitHub" />
 
 </div>
 
