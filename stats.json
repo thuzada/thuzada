@@ -1,27 +1,27 @@
 {
   "username": "thuzada",
-  "totalStars": 1,
+  "totalStars": 0,
   "totalForks": 0,
   "languages": [
     [
       "C",
-      9634181
+      343921
     ],
     [
       "Java",
       244412
     ],
     [
-      "HTML",
-      151083
-    ],
-    [
       "TypeScript",
       91200
     ],
     [
+      "HTML",
+      65072
+    ],
+    [
       "JavaScript",
-      39837
+      36288
     ],
     [
       "Python",
@@ -29,7 +29,7 @@
     ],
     [
       "CSS",
-      29017
+      27640
     ]
   ]
 }
